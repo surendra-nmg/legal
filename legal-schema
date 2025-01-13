@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "Bernstein & Maryanoff",
+  "alternateName": "Bernstein & Maryanoff",
+    "description": "Bernstein & Maryanoff provides legal services in Miami, Florida, USA.",
+  "url" : "https://www.bernsteinandmaryanoff.com/",
+  "logo" : "https://www.bernsteinandmaryanoff.com/wp-content/uploads/2024/03/cropped-Bernstein-Maryanoff-Miami.png",
+  "image" : "https://www.bernsteinandmaryanoff.com/wp-content/uploads/2024/03/cropped-Bernstein-Maryanoff-Miami.png",
+  "telephone": " 1 (800) 429-4529",
+  "priceRange": " Free Consultation",
+  "openingHours" : "Mo,Tu,We,Th,Fr 09:00-17:00",
+  "hasMap": "https://www.google.com/maps/place/Bernstein+%26+Maryanoff/@25.628558,-80.3917937,17z/data=!3m2!4b1!5s0x88d9c3df93422401:0x7edf0a3a74763835!4m5!3m4!1s0x88d9c1602f114f55:0x9df1bca59d011f85!8m2!3d25.628558!4d-80.389605?shorturl=1",
+  "address":
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "9415 Sunset Dr Suite 226, Miami, FL 33173, United States",
+      "addressLocality": "Miami",
+      "addressRegion": "FL",
+      "postalCode": "33173",
+      "addressCountry": "US"
+    },
+  "sameAs":[
+  "https://www.linkedin.com/company/bernstein-&-maryanoff/",
+  "https://www.facebook.com/BernsteinMaryanoff/",
+  "https://www.youtube.com/channel/UCGMu5fcBHlPi2OPMnGngWRQ",
+  "https://www.yelp.com/biz/bernstein-and-maryanoff-miami-5"
+  ]
+}
+</script>
+
+</head>
+
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
